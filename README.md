@@ -1,4 +1,4 @@
-<H1 align="center"> android_flashligh </H1>
+<H1 align="center"> android_flashlight </H1>
 
     program has been written by new and old Android API and should work on new and old Android systems;
 
